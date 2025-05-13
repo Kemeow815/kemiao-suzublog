@@ -9,6 +9,7 @@ import {
   FaInstagram,
   FaLinkedin,
   FaOrcid,
+  FaQq,
   FaRss,
   FaTelegram,
   FaYoutube,
@@ -59,6 +60,10 @@ const socialData: SocialData = {
   rss: {
     urlTemplate: '{username}',
     icon: FaRss,
+  },
+  qq: {
+    urlTemplate: 'https://qm.qq.com/q/{username}',
+    icon: FaQq,
   },
 }
 

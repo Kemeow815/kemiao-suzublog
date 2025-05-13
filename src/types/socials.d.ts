@@ -10,6 +10,7 @@ type SocialMediaKey =
   | 'bilibili_id'
   | 'email'
   | 'rss'
+  | 'qq'
 
 type SocialMedia = Partial<Record<SocialMediaKey, string>>
 
