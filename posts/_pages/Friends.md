@@ -60,6 +60,12 @@ showThumbnail: false # Whether you want to show 'in page' thumbnail.
 "link": "https://cloud.sd.cn/",
 "img": "https://ipfs.crossbell.io/ipfs/QmPv8huiCrnyDkGWHCNnd16vrpmZqt2TpVauhDuMv16Cok?img-quality=75&img-format=auto&img-onerror=redirect&img-width=384",
 "des": "愿我的祝福与你同在！"
+},
+{
+"title": "wallleap",
+"link": "https://myblog.wallleap.cn/#/",
+"img": "https://gravatar.wallleap.cn/avatar/be1ccdcf025a92b98a92e331e1b3662a?size=256",
+"des": "Luwang’s blog"
 }
 ]
 ```
@@ -71,11 +77,11 @@ showThumbnail: false # Whether you want to show 'in page' thumbnail.
 
 ```json
 {
-  "title": "ZLA小站",
-  "link": "https://www.zla.pub/",
-  "img": "https://cdn.v2ex.com/gravatar/cba8b28739dd6225f6fe961762bdb0b71b858d68c83d946a37cee3b0e0daece5?size=512",
-  "des": "不要哭，不要笑，不要恨，要理解。"
+  "title": "喵落阁",
+  "link": "https://me.kemeow.top/",
+  "img": "https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/kemiaotouxiang.jpg",
+  "des": "愿你看清一切真相后，依旧热爱你的家人和朋友。"
 }
 ```
 
-需要更新头像或者链接请留言，有时间会处理的。若没有及时处理请给我发邮件催一下，邮箱是zl at zla dot app。
+需要更新头像或者链接请留言，有时间会处理的。若没有及时处理请给我发邮件催一下，邮箱是me@kemiaosw.top。
