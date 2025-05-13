@@ -6,13 +6,13 @@ subTitle: 克喵的博客 # A short description that appears after the main titl
 description: 克喵的博客，用于分享生活、资源和踩坑教学。 # A longer description for SEO and meta tags.
 keywords: 'Suzu, Next.js, markdown blog, 克喵, blog, sakura, 克喵爱吃卤面' # Comma-separated keywords for SEO purposes.
 author:
-  name: 克喵爱吃老妈 # Your name, displayed as the author of the blog.
+  name: 克喵爱吃卤面 # Your name, displayed as the author of the blog.
   link: 'https://www.kemiao.online' # Link to your personal website or blog.
 # Language setting: Use ISO 639-1 code (e.g., 'en' for English, 'zh' for Chinese)
 lang: zh
 # Your public root url, used for SEO and meta tags.
 # !Do not include a ending slash
-siteUrl: 'http://me.kemeow.top'
+siteUrl: 'https://me.kemeow.top'
 
 # Path to your avatar image. Can be a relative path from /public or a full URL (e.g., https://).
 avatar: /images/avatar.jpg
