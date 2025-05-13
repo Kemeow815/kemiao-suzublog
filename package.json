@@ -47,7 +47,7 @@
     "remark-gemoji": "^8.0.0",
     "remark-gfm": "^4.0.1",
     "remark-math": "^6.0.0",
-    "twikoo": "^1.6.42",
+    "twikoo": "^1.6.43",
     "yaml": "^2.7.1",
     "zod": "^3.24.4"
   },
